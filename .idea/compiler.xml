@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="TestMaven2" />
+        <module name="TestMaven3" />
       </profile>
     </annotationProcessing>
   </component>
